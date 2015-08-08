@@ -1,0 +1,7 @@
+[bikeshare]
+url = https://www.capitalbikeshare.com/data/stations/bikeStations.xml
+terminals = 31623
+
+[pushover]
+token = TOKEN
+user = USER_KEY
